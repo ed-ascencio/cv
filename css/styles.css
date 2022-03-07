@@ -1,0 +1,31 @@
+/**************TAG SELECTORS************/
+body {
+    background-color: #398AB9;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EEEEEE;
+    border-width: 5px;
+    width:5%;
+}
+
+h1, h3 {
+    color: #D8D2CB;
+    font-family: Monospace;
+}
+
+p, table, ul, a, form, ol {
+    font-family: Monospace;
+    font-size: 16px;
+}
+
+/**************CLASS SELECTORS************/
+.bulletPointText:hover {
+    font-family: "Monaco";
+}
+
+/**************ID SELECTORS************/
+#header {
+    color: #EEEEEE;
+}
